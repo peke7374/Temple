@@ -1,5 +1,5 @@
 local Skyboxes = {
-    Purple Day = {
+    PurpleDay = {
         SkyboxBk = "rbxassetid://296908715",
         SkyboxDn = "rbxassetid://296908724",
         SkyboxFt = "rbxassetid://296908740",
@@ -8,7 +8,7 @@ local Skyboxes = {
         SkyboxUp = "rbxassetid://296908769",
     },
 
-    Red Night = {
+    RedNight = {
         SkyboxBk = "rbxassetid://401664839",
         SkyboxDn = "rbxassetid://401664862",
         SkyboxFt = "rbxassetid://401664960",
@@ -26,7 +26,7 @@ local Skyboxes = {
         SkyboxUp = "rbxassetid://6155393905",
     },
 
-    Night = {
+   Night = {
         SkyboxBk = "rbxassetid://48020371",
         SkyboxDn = "rbxassetid://48020144",
         SkyboxFt = "rbxassetid://48020234",
@@ -35,7 +35,7 @@ local Skyboxes = {
         SkyboxUp = "rbxassetid://48020383",
     },
 
-    Space = {
+   Space = {
         SkyboxBk = "rbxassetid://149397692",
         SkyboxDn = "rbxassetid://149397686",
         SkyboxFt = "rbxassetid://149397697",
@@ -53,7 +53,7 @@ local Skyboxes = {
         SkyboxUp = "rbxassetid://6412503613",
     },
 
-    Vibe Morning = {
+    VibeMorning = {
         SkyboxBk = "rbxassetid://1417494030",
         SkyboxDn = "rbxassetid://1417494146",
         SkyboxFt = "rbxassetid://1417494253",
@@ -62,7 +62,7 @@ local Skyboxes = {
         SkyboxUp = "rbxassetid://1417494643",
     },
 
-    Vibe Night = {
+    VibeNight = {
         SkyboxBk = "rbxassetid://5084575798",
         SkyboxDn = "rbxassetid://5084575916",
         SkyboxFt = "rbxassetid://5103949679",
@@ -71,7 +71,7 @@ local Skyboxes = {
         SkyboxUp = "rbxassetid://5084576400",
     },
 
-    Purple Splash = {
+    PurpleSplash = {
         SkyboxBk = "rbxassetid://8539982183",
         SkyboxDn = "rbxassetid://8539981943",
         SkyboxFt = "rbxassetid://8539981721",
@@ -80,7 +80,7 @@ local Skyboxes = {
         SkyboxUp = "rbxassetid://8539981085",
     },
 
-    Green Space = {
+    GreenSpace = {
         SkyboxBk = "rbxassetid://159248188",
         SkyboxDn = "rbxassetid://159248183",
         SkyboxFt = "rbxassetid://159248187",
@@ -107,7 +107,7 @@ local Skyboxes = {
         SkyboxUp = "rbxassetid://10287767597",
     },
 
-    Pink Day = {
+    PinkDay = {
         SkyboxBk = "rbxassetid://271042516",
         SkyboxDn = "rbxassetid://271077243",
         SkyboxFt = "rbxassetid://271042556",
@@ -116,7 +116,7 @@ local Skyboxes = {
         SkyboxUp = "rbxassetid://271077958",
     },
 
-    Alien Red = {
+    AlienRed = {
         SkyboxBk = "rbxassetid://1012890",
         SkyboxDn = "rbxassetid://1012891",
         SkyboxFt = "rbxassetid://1012887",
@@ -125,7 +125,7 @@ local Skyboxes = {
         SkyboxUp = "rbxassetid://1014449",
     },
 
-    Walls Of Autumn = {
+    WallsOfAutumn = {
         SkyboxBk = "rbxassetid://7123244709",
         SkyboxDn = "rbxassetid://7123246497",
         SkyboxFt = "rbxassetid://7123255895",
@@ -134,7 +134,7 @@ local Skyboxes = {
         SkyboxUp = "rbxassetid://7123281828",
     },
 
-    Cold Winterness = {
+    ColdWinterness = {
         SkyboxBk = "rbxassetid://7123754562",
         SkyboxDn = "rbxassetid://7123756028",
         SkyboxFt = "rbxassetid://7123757422",
@@ -152,7 +152,7 @@ local Skyboxes = {
         SkyboxUp = "rbxassetid://7123668994",
     },
 
-    Classic Sky = {
+    ClassicSky = {
         SkyboxBk = "rbxassetid://672345740",
         SkyboxDn = "rbxassetid://672345828",
         SkyboxFt = "rbxassetid://672345879",
@@ -161,7 +161,7 @@ local Skyboxes = {
         SkyboxUp = "rbxassetid://672346072",
     },
 
-    Purple Night = {
+    PurpleNight = {
         SkyboxBk = "rbxassetid://5084575798",
         SkyboxDn = "rbxassetid://5084575916",
         SkyboxFt = "rbxassetid://5103949679",
@@ -170,7 +170,7 @@ local Skyboxes = {
         SkyboxUp = "rbxassetid://5084576400",
     },
 
-    Purple Day Clear = {
+    PurpleDayClear = {
         SkyboxBk = "rbxassetid://6847607535",
         SkyboxDn = "rbxassetid://6847607977",
         SkyboxFt = "rbxassetid://6847608302",
@@ -179,7 +179,7 @@ local Skyboxes = {
         SkyboxUp = "rbxassetid://6847609323",
     },
 
-    Yellow Day = {
+    YellowDay = {
         SkyboxBk = "rbxassetid://2651432901",
         SkyboxDn = "rbxassetid://2651434974",
         SkyboxFt = "rbxassetid://2651435990",
@@ -188,7 +188,7 @@ local Skyboxes = {
         SkyboxUp = "rbxassetid://2651437350",
     },
 
-    Minecraft Sky = {
+    MinecraftSky = {
         SkyboxBk = "rbxassetid://8735166756",
         SkyboxDn = "rbxassetid://8735166707",
         SkyboxFt = "rbxassetid://8735231668",
@@ -206,7 +206,7 @@ local Skyboxes = {
         SkyboxUp = "rbxassetid://150939082",
     },
 
-    Cartoon Sky = {
+    CartoonSky = {
         SkyboxBk = "rbxassetid://6778646360",
         SkyboxDn = "rbxassetid://6778658683",
         SkyboxFt = "rbxassetid://6778648039",
@@ -224,7 +224,7 @@ local Skyboxes = {
         SkyboxUp = "rbxassetid://7643757404",
     },
 
-    Hell Sky = {
+    HellSky = {
         SkyboxBk = "rbxassetid://437430787",
         SkyboxDn = "rbxassetid://437430804",
         SkyboxFt = "rbxassetid://437430543",
@@ -233,7 +233,7 @@ local Skyboxes = {
         SkyboxUp = "rbxassetid://437430771",
     },
 
-    Starry Night = {
+    StarryNight = {
         SkyboxBk = "rbxassetid://8291078911",
         SkyboxDn = "rbxassetid://8291077403",
         SkyboxFt = "rbxassetid://8291081613",
