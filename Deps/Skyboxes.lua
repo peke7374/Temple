@@ -4,7 +4,7 @@ local Skyboxes = {
         SkyboxDn = "rbxassetid://296908724",
         SkyboxFt = "rbxassetid://296908740",
         SkyboxLf = "rbxassetid://296908755",
-        SkyboxLf = "rbxassetid://296908764",
+        SkyboxRt = "rbxassetid://296908764",
         SkyboxUp = "rbxassetid://296908769",
     },
 
@@ -13,7 +13,7 @@ local Skyboxes = {
         SkyboxDn = "rbxassetid://401664862",
         SkyboxFt = "rbxassetid://401664960",
         SkyboxLf = "rbxassetid://401664881",
-        SkyboxLf = "rbxassetid://401664901",
+        SkyboxRt = "rbxassetid://401664901",
         SkyboxUp = "rbxassetid://401664936",
     },
 
@@ -22,7 +22,7 @@ local Skyboxes = {
         SkyboxDn = "rbxassetid://6155393905",
         SkyboxFt = "rbxassetid://6155393905",
         SkyboxLf = "rbxassetid://6155393905",
-        SkyboxLf = "rbxassetid://6155393905",
+        SkyboxRt = "rbxassetid://6155393905",
         SkyboxUp = "rbxassetid://6155393905",
     },
 
@@ -31,7 +31,7 @@ local Skyboxes = {
         SkyboxDn = "rbxassetid://48020144",
         SkyboxFt = "rbxassetid://48020234",
         SkyboxLf = "rbxassetid://48020211",
-        SkyboxLf = "rbxassetid://48020254",
+        SkyboxRt = "rbxassetid://48020254",
         SkyboxUp = "rbxassetid://48020383",
     },
 
@@ -40,7 +40,7 @@ local Skyboxes = {
         SkyboxDn = "rbxassetid://149397686",
         SkyboxFt = "rbxassetid://149397697",
         SkyboxLf = "rbxassetid://149397684",
-        SkyboxLf = "rbxassetid://149397688",
+        SkyboxRt = "rbxassetid://149397688",
         SkyboxUp = "rbxassetid://149397702",
     },
 
@@ -49,7 +49,7 @@ local Skyboxes = {
         SkyboxDn = "rbxassetid://6444884785",
         SkyboxFt = "rbxassetid://6444884337",
         SkyboxLf = "rbxassetid://6444884337",
-        SkyboxLf = "rbxassetid://6444884337",
+        SkyboxRt = "rbxassetid://6444884337",
         SkyboxUp = "rbxassetid://6412503613",
     },
 
@@ -58,7 +58,7 @@ local Skyboxes = {
         SkyboxDn = "rbxassetid://1417494146",
         SkyboxFt = "rbxassetid://1417494253",
         SkyboxLf = "rbxassetid://1417494402",
-        SkyboxLf = "rbxassetid://1417494499",
+        SkyboxRt = "rbxassetid://1417494499",
         SkyboxUp = "rbxassetid://1417494643",
     },
 
@@ -67,7 +67,7 @@ local Skyboxes = {
         SkyboxDn = "rbxassetid://5084575916",
         SkyboxFt = "rbxassetid://5103949679",
         SkyboxLf = "rbxassetid://5103948542",
-        SkyboxLf = "rbxassetid://5103948784",
+        SkyboxRt = "rbxassetid://5103948784",
         SkyboxUp = "rbxassetid://5084576400",
     },
 
@@ -76,7 +76,7 @@ local Skyboxes = {
         SkyboxDn = "rbxassetid://8539981943",
         SkyboxFt = "rbxassetid://8539981721",
         SkyboxLf = "rbxassetid://8539981424",
-        SkyboxLf = "rbxassetid://8539980766",
+        SkyboxRt = "rbxassetid://8539980766",
         SkyboxUp = "rbxassetid://8539981085",
     },
 
@@ -85,7 +85,7 @@ local Skyboxes = {
         SkyboxDn = "rbxassetid://159248183",
         SkyboxFt = "rbxassetid://159248187",
         SkyboxLf = "rbxassetid://159248173",
-        SkyboxLf = "rbxassetid://159248192",
+        SkyboxRt = "rbxassetid://159248192",
         SkyboxUp = "rbxassetid://159248176",
     },
 
@@ -94,7 +94,7 @@ local Skyboxes = {
         SkyboxDn = "rbxassetid://155674246",
         SkyboxFt = "rbxassetid://155657609",
         SkyboxLf = "rbxassetid://155657671",
-        SkyboxLf = "rbxassetid://155657619",
+        SkyboxRt = "rbxassetid://155657619",
         SkyboxUp = "rbxassetid://155674931",
     },
 
@@ -103,7 +103,7 @@ local Skyboxes = {
         SkyboxDn = "rbxassetid://10287766382",
         SkyboxFt = "rbxassetid://10287764626",
         SkyboxLf = "rbxassetid://10287763421",
-        SkyboxLf = "rbxassetid://10287764626",
+        SkyboxRt = "rbxassetid://10287764626",
         SkyboxUp = "rbxassetid://10287767597",
     },
 
@@ -112,7 +112,7 @@ local Skyboxes = {
         SkyboxDn = "rbxassetid://271077243",
         SkyboxFt = "rbxassetid://271042556",
         SkyboxLf = "rbxassetid://271042310",
-        SkyboxLf = "rbxassetid://271042467",
+        SkyboxRt = "rbxassetid://271042467",
         SkyboxUp = "rbxassetid://271077958",
     },
 
@@ -121,7 +121,7 @@ local Skyboxes = {
         SkyboxDn = "rbxassetid://1012891",
         SkyboxFt = "rbxassetid://1012887",
         SkyboxLf = "rbxassetid://1012889",
-        SkyboxLf = "rbxassetid://1012888",
+        SkyboxRt = "rbxassetid://1012888",
         SkyboxUp = "rbxassetid://1014449",
     },
 
@@ -130,7 +130,7 @@ local Skyboxes = {
         SkyboxDn = "rbxassetid://7123246497",
         SkyboxFt = "rbxassetid://7123255895",
         SkyboxLf = "rbxassetid://7123257992",
-        SkyboxLf = "rbxassetid://7123279103",
+        SkyboxRt = "rbxassetid://7123279103",
         SkyboxUp = "rbxassetid://7123281828",
     },
 
@@ -139,7 +139,7 @@ local Skyboxes = {
         SkyboxDn = "rbxassetid://7123756028",
         SkyboxFt = "rbxassetid://7123757422",
         SkyboxLf = "rbxassetid://7123758897",
-        SkyboxLf = "rbxassetid://7123760563",
+        SkyboxRt = "rbxassetid://7123760563",
         SkyboxUp = "rbxassetid://7123762364",
     },
 
@@ -148,7 +148,7 @@ local Skyboxes = {
         SkyboxDn = "rbxassetid://7123657455",
         SkyboxFt = "rbxassetid://7123662047",
         SkyboxLf = "rbxassetid://7123664533",
-        SkyboxLf = "rbxassetid://7123666598",
+        SkyboxRt = "rbxassetid://7123666598",
         SkyboxUp = "rbxassetid://7123668994",
     },
 
@@ -157,7 +157,7 @@ local Skyboxes = {
         SkyboxDn = "rbxassetid://672345828",
         SkyboxFt = "rbxassetid://672345879",
         SkyboxLf = "rbxassetid://672345927",
-        SkyboxLf = "rbxassetid://672346006",
+        SkyboxRt = "rbxassetid://672346006",
         SkyboxUp = "rbxassetid://672346072",
     },
 
@@ -166,7 +166,7 @@ local Skyboxes = {
         SkyboxDn = "rbxassetid://5084575916",
         SkyboxFt = "rbxassetid://5103949679",
         SkyboxLf = "rbxassetid://5103948542",
-        SkyboxLf = "rbxassetid://5103948784",
+        SkyboxRt = "rbxassetid://5103948784",
         SkyboxUp = "rbxassetid://5084576400",
     },
 
@@ -175,7 +175,7 @@ local Skyboxes = {
         SkyboxDn = "rbxassetid://6847607977",
         SkyboxFt = "rbxassetid://6847608302",
         SkyboxLf = "rbxassetid://6847608608",
-        SkyboxLf = "rbxassetid://6847608986",
+        SkyboxRt = "rbxassetid://6847608986",
         SkyboxUp = "rbxassetid://6847609323",
     },
 
@@ -184,7 +184,7 @@ local Skyboxes = {
         SkyboxDn = "rbxassetid://2651434974",
         SkyboxFt = "rbxassetid://2651435990",
         SkyboxLf = "rbxassetid://2651436494",
-        SkyboxLf = "rbxassetid://2651436979",
+        SkyboxRt = "rbxassetid://2651436979",
         SkyboxUp = "rbxassetid://2651437350",
     },
 
@@ -193,7 +193,7 @@ local Skyboxes = {
         SkyboxDn = "rbxassetid://8735166707",
         SkyboxFt = "rbxassetid://8735231668",
         SkyboxLf = "rbxassetid://8735166755",
-        SkyboxLf = "rbxassetid://8735166751",
+        SkyboxRt = "rbxassetid://8735166751",
         SkyboxUp = "rbxassetid://8735166729",
     },
 
@@ -202,7 +202,7 @@ local Skyboxes = {
         SkyboxDn = "rbxassetid://150939038",
         SkyboxFt = "rbxassetid://150939047",
         SkyboxLf = "rbxassetid://150939056",
-        SkyboxLf = "rbxassetid://150939063",
+        SkyboxRt = "rbxassetid://150939063",
         SkyboxUp = "rbxassetid://150939082",
     },
 
@@ -211,7 +211,7 @@ local Skyboxes = {
         SkyboxDn = "rbxassetid://6778658683",
         SkyboxFt = "rbxassetid://6778648039",
         SkyboxLf = "rbxassetid://6778649136",
-        SkyboxLf = "rbxassetid://6778650519",
+        SkyboxRt = "rbxassetid://6778650519",
         SkyboxUp = "rbxassetid://6778658364",
     },
 
@@ -220,7 +220,7 @@ local Skyboxes = {
         SkyboxDn = "rbxassetid://7643743687",
         SkyboxFt = "rbxassetid://7644304186",
         SkyboxLf = "rbxassetid://7644288724",
-        SkyboxLf = "rbxassetid://7643700819",
+        SkyboxRt = "rbxassetid://7643700819",
         SkyboxUp = "rbxassetid://7643757404",
     },
 
@@ -229,7 +229,7 @@ local Skyboxes = {
         SkyboxDn = "rbxassetid://437430804",
         SkyboxFt = "rbxassetid://437430543",
         SkyboxLf = "rbxassetid://437430732",
-        SkyboxLf = "rbxassetid://437430747",
+        SkyboxRt = "rbxassetid://437430747",
         SkyboxUp = "rbxassetid://437430771",
     },
 
@@ -238,7 +238,7 @@ local Skyboxes = {
         SkyboxDn = "rbxassetid://8291077403",
         SkyboxFt = "rbxassetid://8291081613",
         SkyboxLf = "rbxassetid://8291074004",
-        SkyboxLf = "rbxassetid://8291080353",
+        SkyboxRt = "rbxassetid://8291080353",
         SkyboxUp = "rbxassetid://8291075054",
     },
 
@@ -247,7 +247,7 @@ local Skyboxes = {
         SkyboxDn = "rbxassetid://8767416629",
         SkyboxFt = "rbxassetid://8767416629",
         SkyboxLf = "rbxassetid://8767416629",
-        SkyboxLf = "rbxassetid://8767416629",
+        SkyboxRt = "rbxassetid://8767416629",
         SkyboxUp = "rbxassetid://8767416629",
     },
 
@@ -256,7 +256,7 @@ local Skyboxes = {
         SkyboxDn = "rbxassetid://433381097",
         SkyboxFt = "rbxassetid://433381097",
         SkyboxLf = "rbxassetid://433381097",
-        SkyboxLf = "rbxassetid://433381097",
+        SkyboxRt = "rbxassetid://433381097",
         SkyboxUp = "rbxassetid://433381097",
     },
 }
