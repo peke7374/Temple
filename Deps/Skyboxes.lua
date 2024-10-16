@@ -447,7 +447,7 @@ local Skyboxes = {
         SkyboxLf = "http://www.roblox.com/asset/?id=227635974",
         SkyboxRt = "http://www.roblox.com/asset/?id=227635990",
         SkyboxUp = "http://www.roblox.com/asset/?id=227636031",
-    }
+    },
 
     BlueAbyss = {
         SkyboxBk = "rbxassetid://16269815885",
