@@ -1,3 +1,5 @@
+-- [[ FROM LINORIA! ]] --
+
 local cloneref = cloneref or function(o) return o end
 local HttpService = cloneref(game:GetService('HttpService'))
 local httprequest = (syn and syn.request) or (http and http.request) or http_request or (fluxus and fluxus.request) or request
