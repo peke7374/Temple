@@ -476,7 +476,7 @@ local ThemeManager = {} do
 		groupbox:AddDivider()
 
 		groupbox:AddDropdown('ItemType', {
-			Values = {"None", "Sword", "Cross", "Catholic Cross", "Orthodox Cross", "Heart", "Swas"},
+			Values = {"None", "Sword", "Cross", "Catholic Cross", "Orthodox Cross", "Heart"},
 			Default = "Sword",
 			Multi = false,
 			Text = "Item",
