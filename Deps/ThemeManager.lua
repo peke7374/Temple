@@ -41,14 +41,14 @@ local ThemeManager = {} do
 		["Tokyo Night"] = { 1, HttpService:JSONDecode(
 			[[{
 				"FontColor":"ffffff",
-				"MainColor":"13131c",
-				"AccentColor":"7d6bdb",
-				"BackgroundColor":"13131c",
-				"OutlineColor":"252525",
+				"MainColor":"191925",
+				"AccentColor":"6956cb",
+				"BackgroundColor":"15151e",
+				"OutlineColor":"272727",
 				"RiskColor":"fb5f5f",
 
 				"ItemType":"Sword",
-				"SwordColor":"7d6bdb",
+				"SwordColor":"6956cb",
 				"SwordTransparency":"0",
 				"SwordReflectance":"0",
 				"SwordSpeed":"0.15",
