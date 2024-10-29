@@ -38,6 +38,33 @@ local ThemeManager = {} do
 			}]]
 		)},
 
+		["Tokyo Night"] = { 1, HttpService:JSONDecode(
+			[[{
+				"FontColor":"ffffff",
+				"MainColor":"13131c",
+				"AccentColor":"7d6bdb",
+				"BackgroundColor":"13131c",
+				"OutlineColor":"252525",
+				"RiskColor":"fb5f5f",
+
+				"ItemType":"Sword",
+				"SwordColor":"7d6bdb",
+				"SwordTransparency":"0",
+				"SwordReflectance":"0",
+				"SwordSpeed":"0.15",
+				"SwordMaterial":"Neon",
+
+				"Contrast":"0",
+				"Saturation":"0",
+				"Brightness":"0",
+
+
+				"BackColor":"000000",
+				"BlurSize":"15",
+				"BackTransparency":"0.7"
+			}]]
+		)},
+
 		["Nord"] = { 1, HttpService:JSONDecode(
 			[[{
 				"FontColor":"ffffff",
