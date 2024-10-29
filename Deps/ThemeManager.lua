@@ -68,11 +68,11 @@ local ThemeManager = {} do
 		["Nord"] = { 1, HttpService:JSONDecode(
 			[[{
 				"FontColor":"ffffff",
-				"MainColor":"1b1b1b",
-				"AccentColor":"4c6ee9",
-				"BackgroundColor":"1b1b1b",
-				"OutlineColor":"292929",
-				"RiskColor":"e50000",
+				"MainColor":"1c1e20",
+				"AccentColor":"9effc8",
+				"BackgroundColor":"1c1e20",
+				"OutlineColor":"24282d",
+				"RiskColor":"ff7a00",
 
 				"ItemType":"Sword",
 				"SwordColor":"ffffff",
