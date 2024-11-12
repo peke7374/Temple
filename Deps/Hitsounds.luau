@@ -1,4 +1,4 @@
-local Sounds = {
+{
     ["Default"] = "rbxassetid://0",
     ["Boink"] = "rbxassetid://5451260445",
     ["TF2"] = "rbxassetid://5650646664",
