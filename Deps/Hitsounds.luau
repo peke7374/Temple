@@ -1,5 +1,4 @@
 local Sounds = {
-    ["Default"] = "rbxassetid://0",
     ["Boink"] = "rbxassetid://5451260445",
     ["TF2"] = "rbxassetid://5650646664",
     ["Rust"] = "rbxassetid://5043539486",
@@ -8,7 +7,6 @@ local Sounds = {
     ["QBeep"] = "rbxassetid://6493276903",
     ["WindowsXP"] = "rbxassetid://2323663829",
     ["Roblox"] = "rbxassetid://1215767160",
-    ["MyNameJeff"] = "rbxassetid://771712676",
     ["Metal"] = "rbxassetid://6493368970",
     ["Metal2"] = "rbxassetid://1621591319",
     ["Vine Boom"] = "rbxassetid://9088081730",
@@ -36,3 +34,5 @@ local Sounds = {
     ["Slip"] = "rbxassetid://4812411794",
     ["Osu Reverb"] = "rbxassetid://9073557117",
 }
+
+return Sounds
