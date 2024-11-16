@@ -14,11 +14,11 @@ local ThemeManager = {} do
 		["Default"] = { 1, HttpService:JSONDecode(
 			[[{
 				"FontColor":"ffffff",
-				"MainColor":"1b1b1b",
+				"MainColor":"1c1c1c",
 				"AccentColor":"63b9ff",
-				"BackgroundColor":"1a1a1a",
-				"OutlineColor":"252525",
-				"RiskColor":"e50000",
+				"BackgroundColor":"1b1b1b",
+				"OutlineColor":"242424",
+				"RiskColor":"ff6363",
 
 				"ItemType":"Sword",
 				"SwordColor":"63b9ff",
