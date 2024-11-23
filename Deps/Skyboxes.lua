@@ -1,4 +1,13 @@
 local Skyboxes = {
+    Custom = {
+        SkyboxBk = "",
+        SkyboxDn = "",
+        SkyboxFt = "",
+        SkyboxLf = "",
+        SkyboxRt = "",
+        SkyboxUp = "",
+    },
+    
     PurpleDay = {
         SkyboxBk = "rbxassetid://296908715",
         SkyboxDn = "rbxassetid://296908724",
